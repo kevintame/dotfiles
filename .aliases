@@ -9,7 +9,7 @@ alias -- -="cd -"
 # Shortcuts
 alias d="cd ~/Dropbox"
 alias sp="cd ~/Dropbox/Sites/_SelectorPortal"
-alias tfa="cd ~/Dropbox/Sites/TFAWorkspaces/services-ui"
+alias tfa="cd ~/Documents/TFAWorkspaces/services-ui"
 alias sites="cd ~/Dropbox/Sites/"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
