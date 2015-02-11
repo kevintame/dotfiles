@@ -8,12 +8,9 @@ alias -- -="cd -"
 
 # Shortcuts
 alias d="cd ~/Dropbox"
-alias sp="cd ~/Dropbox/Sites/_SelectorPortal"
-alias tfa="cd ~/Documents/TFAWorkspaces/services-ui"
-alias sites="cd ~/Dropbox/Sites/"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
-alias p="cd ~/projects"
+alias p="cd ~/Projects"
 alias g="git"
 alias h="history"
 alias j="jobs"
