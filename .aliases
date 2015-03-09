@@ -15,8 +15,9 @@ alias g="git"
 alias h="history"
 alias j="jobs"
 
-# Path Updates
+# Laravel Dev Alias"
 alias laravel='~/.composer/vendor/bin/laravel'
+alias homestead='~/.composer/vendor/bin/homestead'
 
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
