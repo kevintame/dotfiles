@@ -145,3 +145,9 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+
+[user]
+
+	name = kevinatme
+	email = kevintame@gmail.com
+
