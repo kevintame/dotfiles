@@ -16,14 +16,7 @@ Alternatively, to update while avoiding the confirmation prompt:
 set -- -f; source bootstrap.sh
 ```
 
-
-////////////////////////////////////////////////////////////////////////////////
-//                                                                            //
-// TMUX                                                                       //
-//                                                                            //
-////////////////////////////////////////////////////////////////////////////////
-
-Configuration
+Tux Configuration
 =============
 
     ~/.tmux.conf
